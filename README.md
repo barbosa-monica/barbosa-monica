@@ -44,12 +44,6 @@
 [![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=barbosa-monica&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=barbosa-monica&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-### 📌 Commit Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=barbosa-monica&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-### 📌 Activity Graph
-[![Mônica's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=barbosa-monica&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ---
 
 ## 📫 Connect with Me
