@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Monica Barbosa
 
 🎓 **Computer Science Sophomore** @ IFAM — Brazil  
-⚡ Background in **Electrical Engineering** & **Mechatronics** — *yes, used to be a hardware girl* 👩🏽‍🏭  
+⚡ Background in **Electrical Engineering** & **Mechatronics**  
 📊 Now fully focused on **Data Science**, **Computer Vision**, **Machine Learning**, and **Analytics Engineering**  
 💡 Bridging quantitative engineering logic with algorithms to turn raw data, real-time streams, and pixels into actionable intelligence.
 
